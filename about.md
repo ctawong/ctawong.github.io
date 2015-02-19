@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I have an interest in programming, algorithm and data science.  My latest interest is machine learning.
+I have an interest in technology, programming, algorithm, data science and machine learning.
 
 
